@@ -1,0 +1,4 @@
+
+
+Harry Programmer and the Sorcerers Code: Scene 1
+git init /home/ccuser/workspace/ready-sorcerers-code/.git/
